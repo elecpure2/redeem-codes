@@ -1,9 +1,11 @@
 {
-  "genshin": [
-    {"code": "NEWCODE2026", "rewards": "원석 60개"}
-  ],
-  "hkrpg": [
-    {"code": "STARTEST123", "rewards": "성옥 60개"}
-  ],
+  "_example": {
+    "설명": "아래 형식으로 각 게임 배열에 추가하세요",
+    "genshin": {"code": "NEWCODE2026", "rewards": "원석 60개"},
+    "hkrpg": {"code": "STARTEST123", "rewards": "성옥 60개"},
+    "nap": {"code": "ZZZCODE789", "rewards": "폴리크롬 60개"}
+  },
+  "genshin": [],
+  "hkrpg": [],
   "nap": []
 }
