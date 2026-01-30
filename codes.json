@@ -1,5 +1,11 @@
 {
-  "genshin": [],
-  "hkrpg": [],
-  "nap": []
+  "genshin": [
+    {"code": "TESTCODE123", "rewards": "원석 99개"}
+  ],
+  "hkrpg": [
+    {"code": "TESTSTAR456", "rewards": "성옥 88개"}
+  ],
+  "nap": [
+    {"code": "TESTZZZ789", "rewards": "폴리크롬 77개"}
+  ]
 }
