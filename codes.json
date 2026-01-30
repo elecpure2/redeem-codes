@@ -1,5 +1,9 @@
 {
-  "genshin": [],
-  "hkrpg": [],
+  "genshin": [
+    {"code": "NEWCODE2026", "rewards": "원석 60개"}
+  ],
+  "hkrpg": [
+    {"code": "STARTEST123", "rewards": "성옥 60개"}
+  ],
   "nap": []
 }
